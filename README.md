@@ -51,4 +51,4 @@ License
 
 Copyright 2012 Whisper Systems
 
-Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
+Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html2280aafce33dd5737ec4b844d56353832c2c0a67
